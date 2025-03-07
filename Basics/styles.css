@@ -1,0 +1,12 @@
+h3 {
+    color: darkgreen;
+    text-align: left;
+}
+table {
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightblue;
+}
+td {
+    border: 1px solid black;
+}
